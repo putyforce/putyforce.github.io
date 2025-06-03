@@ -28,6 +28,7 @@ span {
   background-color: #0D0208;
   font-size: 1.1em;
   border: solid 1px #00FF41;
+  border-style: double;
   border-top: 0;
   border-left: 0;
   border-right: 0;
