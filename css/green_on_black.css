@@ -27,7 +27,7 @@ span {
   padding: 0.3em;
   background-color: #0D0208;
   font-size: 1.1em;
-  border: solid 1px #7DD864;
+  border-width: 0.3em #7DD864;
   border-style: double;
   border-top: 0;
   border-left: 0;
